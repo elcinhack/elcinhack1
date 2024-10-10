@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!-- 
+    SITE 1101 Principles of Information Systems Fall 2022 
+    (c)2022 by Name Surname 
+    Submitted in partial fulfillment of the requirements of the course.
+-->
+<html>
+  
+    <head>
+      <title>Homework 3: How websites work?</title>  
+      <h><strong>Team name</strong></h>     
+       <img src="https://img.business.com/w/700/aHR0cHM6Ly9pbWFnZXMuYnVzaW5lc3NuZXdzZGFpbHkuY29tL2FwcC91cGxvYWRzLzIwMjIvMDQvMDQwNzQ1NTMvMTU1NDI0NDAxMC5qcGVn"/>
+  <!--Logo of the team-->
+    </head>
+    <body>
+      </br>
+      <ul>
+        <li><a href="About us.html">Click here to see information about us.</a></li>
+         <li>    <a href="Aboutourhourofcodeevent.html">Click here to see information about our Hour Of Code event.</a></li>
+        <li> <a href="Aboutourhourofcodeevent.html">Click here to see Information about our Website project.</a></li>
+      </ul>
+      <p></p>
+    </body>

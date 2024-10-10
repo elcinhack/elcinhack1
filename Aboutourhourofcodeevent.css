@@ -1,0 +1,187 @@
+*{
+    font-family: 'Space Mono', monospace;
+    top: 165px;
+}
+body{
+    position: relative;
+    background-image: linear-gradient(to top left, greenyellow, rgb(12,12,44));
+}
+ul{
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+}
+li{
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 200px;  
+}
+header#bar {
+  position: fixed;
+  border: 1px black;
+  width:100%;
+  z-index: 20;
+  background-color: white;
+  opacity: 95%;
+  top: 0;
+  height:70px
+}
+a#bar:link, a#bar:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid greenyellow;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a#bar:hover, a#bar:active {
+    background-color: greenyellow;
+    color: black;
+  }
+
+  header#bar2 {
+    position: fixed;
+    border: 1px black;
+    width:100%;
+    z-index: 20;
+    background-color: greenyellow;
+    opacity: 95%;
+    top: 70px;
+    height:90px;
+  }
+  a#bar2:link, a#bar2:visited {
+      background-color: greenyellow;
+      color: rgb(12,12,44);
+      border: 2px solid rgb(12,12,44);
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a#bar2:hover, a#bar2:active {
+      background-color: rgb(12,12,44);
+      color: white;
+    }
+  #left{
+    width: 50%;
+    text-align:justify;
+    color:#FFF;
+  }
+  #right{
+    width: 50%;
+    position: relative;
+    left:750px;
+    top:auto;
+    text-align:justify;
+    color:#FFF;
+  }
+
+  
+  a#footer:link {
+    color: yellowgreen;
+  }
+  
+  a#footer:visited {
+    color: yellowgreen;
+  }
+  
+  a#footer:hover {
+    color: yellow;
+  }
+  
+  a#footer:active {
+    color: yellow;
+  }
+  
+  div#footer{
+    background-color: rgb(12,12,44);
+    color: yellowgreen
+  }
+  p#footer{
+    height: 5px;
+    background-color: white;
+    margin-bottom: 0;
+    color:yellowgreen;
+  }
+  
+  h2{
+    font-size: xx-large;
+  }
+  h3{
+    font-size:x-large;
+    color:#FFF;
+  }
+  body p{
+    font-size: larger;
+  }
+
+  img#aboutcode{
+    height: 375px;
+    width: 567px;
+    position: absolute;
+    top: 1300px;
+    left: 870px;
+    border: 5px solid white;
+  }
+  img#arriving{
+    position: absolute;
+    height: 425px;
+    width: 556px;
+    top: 300px;
+    left: 850px;
+    border: 4px solid white;
+  }
+
+  img#conc{
+    position:absolute;
+    height:275px;
+    width: 400px;
+    top: 2317.5px;
+    left: 925px;
+    border: 5px solid white;
+  }
+
+  img#codehour{
+    position: absolute;
+    height: 450px;
+    width: 640px;
+    left: 55px;
+    top: 1780px;
+    border: 5px solid white;
+  }
+
+  img#start{
+    position: absolute;
+    height: 350px;
+    width: 470px;
+    left: 140px;
+    top: 850px;
+    border: 5px solid white;
+  }
+
+  #hourofcode{
+    color:#FFF;
+  }
+
+  a#link:link, a#link:visited, a#link:hover, a#link:active {
+    color: white;
+  }
+
+  img#logo{
+    height:50px;
+    width: auto;
+    top: 10px;
+    position: absolute;
+   }
+
+   /*img#Contribution{
+    width:750px;
+    height: auto;
+   }*/
